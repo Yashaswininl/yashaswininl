@@ -6,7 +6,7 @@ Data science combines math and statistics, specialized programming, advanced ana
 
 
 
-### Here are some Hands on Projects that I have worked on during my learning process.###
+### Here are some Hands on Projects that I have worked on during my learning process. ###
 ***These projects have been helping me to boost my data science knowledge to various learning levels.***
 
 :raising_hand_woman:**BEGINNER LEVEL**
