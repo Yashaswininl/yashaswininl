@@ -15,3 +15,5 @@ Data science combines math and statistics, specialized programming, advanced ana
 [Product delivery time estimation using multiple linear regression model.ipynb (working on performance accuracy score)](https://github.com/Yashaswininl/yashaswininl/blob/main/Product%20delivery%20time%20estimation%20using%20multiple%20linear%20regression%20model.ipynb)
 
 [House price prediction using multiple linear regression(working on performance accuracy score and RMSE)](https://github.com/Yashaswininl/yashaswininl/blob/main/Predict%20the%20price%20of%20a%20house..ipynb)
+
+[Logistic Regression on Coronary Heart Disease data (working on Predicting the probability of occurrence of coronary heart disease for a given person and Predicting the final class label or target value)](https://github.com/Yashaswininl/yashaswininl/blob/main/Logistic%20Regression%20on%20Coronary%20Heart%20Disease%20data.ipynb)
