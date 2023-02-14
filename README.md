@@ -12,4 +12,4 @@ Data science combines math and statistics, specialized programming, advanced ana
 :raising_hand_woman:**BEGINNER LEVEL**
 
 
-(1)[Product delivery time estimation using multiple linear regression model.ipynb]
+[Product delivery time estimation using multiple linear regression model.ipynb](https://github.com/Yashaswininl/yashaswininl/blob/main/Product%20delivery%20time%20estimation%20using%20multiple%20linear%20regression%20model.ipynb)
