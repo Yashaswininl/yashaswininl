@@ -10,3 +10,6 @@ Data science combines math and statistics, specialized programming, advanced ana
 ***These projects have been helping me to boost my data science knowledge to various learning levels.***
 
 :raising_hand_woman:**BEGINNER LEVEL**
+
+
+(1)[Product delivery time estimation using multiple linear regression model.ipynb]
