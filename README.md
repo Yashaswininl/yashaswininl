@@ -17,3 +17,5 @@ Data science combines math and statistics, specialized programming, advanced ana
 [House price prediction using multiple linear regression(working on performance accuracy score and RMSE)](https://github.com/Yashaswininl/yashaswininl/blob/main/Predict%20the%20price%20of%20a%20house..ipynb)
 
 [Logistic Regression on Coronary Heart Disease data (working on Predicting the probability of occurrence of coronary heart disease for a given person and Predicting the final class label or target value)](https://github.com/Yashaswininl/yashaswininl/blob/main/Logistic%20Regression%20on%20Coronary%20Heart%20Disease%20data.ipynb)
+
+[Logistic Regression on Credit Risk data (working on classifying the credit risk for a loan applicant and Measuring Model Performance using Confusion Matrix)](https://github.com/Yashaswininl/yashaswininl/blob/main/Logistic%20Regression%20on%20Credit%20Risk%20data.ipynb)
