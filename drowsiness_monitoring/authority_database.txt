@@ -1,0 +1,31 @@
+sl.no,district,names,authority_id
+1,Chamarajanagara,Aarav,12511517
+2,Chikkamagaluru,Riya,60124084
+3,Dakshina Kannada,Akash,76980741
+4,Hassan,Diya,11111111
+5,Kodagu,Vivaan,43785870
+6,Mandya,Anya,50015491
+7,Mysuru,Veer,90748444
+8,Udupi,Myra,26061601
+9,Ballari,Neil,79065028
+10,Bidar,Ishaan,25358306
+11,Kalaburagi,Kavya,86465457
+12,Koppala,Rohan,55898356
+13,Raichuru,Kiara,13608932
+14,Vijayanagara,Arjun,16266600
+15,Yadagiri,Zara,65034724
+16,Bengaluru Rural,Dev,19800181
+17,Bengaluru Urban,Siya,38438858
+18,Chikkaballapura,Miraya,96044094
+19,Chitradurga,Krish,52873403
+20,Davanagere,Inaya,34309664
+21,Kolar,Reyansh,90184599
+22,Ramanagara,Anvi,28769903
+23,Shivamogga,Aliya,66302939
+24,Tumakuru,Yuvan,51027402
+25,Bagalkote,Saanvi,63657068
+26,Belagavi,ram,27701678
+27,Dharwada,sam,70860215
+28,Gadaga,diya,22471582
+29,Haveri,nancy,17048447
+30,Uttara Kannada,,28935639

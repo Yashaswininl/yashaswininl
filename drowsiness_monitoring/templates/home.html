@@ -1,0 +1,19 @@
+<!-- templates/home.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="home-container" style="text-align: center; padding-top: 100px;">
+        <h1>JourneyTracker: Ensuring Public Transport Driver Alertness</h1>
+        <p>
+            <a href="{{ url_for('register') }}" style="color: red; text-decoration: underline; margin-right: 20px;">Register</a>
+            <a href="{{ url_for('login') }}" style="color: red; text-decoration: underline;">Login</a>
+        </p>
+    </div>
+</body>
+</html>

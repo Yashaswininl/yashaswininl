@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>input_collection</title>
+</head>
+<body>
+    <h1>Adjust Sleep Duration</h1>
+    <form action="/input_collection" method="POST">
+        <label for="prev_sleep_hours">Previous Sleep Hours:</label>
+        <input type="number" id="prev_sleep_hours" name="prev_sleep_hours" required><br><br>
+
+        <label for="working_hours">Working Hours:</label>
+        <input type="number" id="working_hours" name="working_hours" required><br><br>
+
+        <label for="medication_taken">Medication Taken:</label>
+        <select id="medication_taken" name="medication_taken">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <!-- Display sleep duration if it's available -->
+    {% if sleep_duration %}
+        <p>Sleep Duration Adjusted: {{ sleep_duration }}</p>
+    {% endif %}
+ <!-- Button to start the next phase of personalization -->
+    <form action="/execute_personalization" method="GET">
+         <button type="submit">Start Personalization</button>
+    </form>
+</body>
+</html>

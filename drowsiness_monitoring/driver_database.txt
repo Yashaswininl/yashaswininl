@@ -1,0 +1,60 @@
+1,1251,Rahul,Chamarajanagara,26
+2,1517,Arjun,Chikkamagaluru,27
+3,6012,Akash,Dakshina Kannada,44
+4,4084,Rohan,Hassan,34
+5,7698,Aditya,Kodagu,40
+6,0741,Nikhil,Mandya,36
+7,8822,Dev,Mysuru,33
+8,2293,Karan,Udupi,41
+9,4378,Veer,Ballari,36
+10,5870,Siddharth,Bidar,28
+11,5001,Abhishek,Kalaburagi,29
+12,5491,Rohit,Koppala,25
+13,9074,Yash,Raichuru,39
+14,8444,Kabir,Vijayanagara,28
+15,2606,Neil,Yadagiri,50
+16,1601,Mihir,Bengaluru Rural,37
+17,7906,Abhay,Bengaluru Urban,36
+18,5028,Vivaan,Chikkaballapura,25
+19,2535,Aarav,Chitradurga,36
+20,8306,Reyansh,Davanagere,50
+21,8646,Krish,Kolar,47
+22,5457,Ishaan,Ramanagara,50
+23,5589,Mihir,Shivamogga,46
+24,8356,Abhay,Tumakuru,33
+25,1360,Neil,Bagalkote,28
+26,8932,Kabir,Belagavi,41
+27,1626,Yash,Dharwada,36
+28,6600,Rohit,Gadaga,33
+29,6503,Abhishek,Haveri,38
+30,4724,Siddharth,Uttara Kannada,34
+31,1980,Veer,Vijayapura,32
+32,0181,Karan,Chamarajanagara,28
+33,3843,Abhishek,Chikkamagaluru,48
+34,8858,Siddharth,Dakshina Kannada,46
+35,9604,Vivaan,Hassan,39
+36,4094,Sara,Kodagu,31
+37,5287,Tom,Mandya,35
+38,3403,Vera,Mysuru,32
+39,3430,Zane,Udupi,28
+40,9664,Alan,Ballari,28
+41,9018,Amy,Bidar,26
+42,4599,Brian,Kalaburagi,35
+43,2876,Carol,Koppala,30
+44,9903,Dan,Raichuru,49
+45,6630,Emma,Vijayanagara,29
+46,2939,Frank,Yadagiri,41
+47,5102,Vera,Bengaluru Rural,28
+48,7402,Paige,Bengaluru Urban,42
+49,6365,Quinn,Chikkaballapura,50
+50,7068,Ryan,Chitradurga,46
+51,2770,Sara,Davanagere,47
+52,1678,Tom,Kolar,43
+53,7086,Vera,Ramanagara,49
+54,0215,Alan,Shivamogga,33
+55,2247,Amy,Tumakuru,34
+56,1582,Brian,Bagalkote,27
+57,1704,Carol,Belagavi,32
+58,8447,Dan,Dharwada,39
+59,2893,Emma,Gadaga,27
+60,5639,Frank,Haveri,41

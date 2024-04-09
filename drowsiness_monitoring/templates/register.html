@@ -1,0 +1,31 @@
+<!-- templates/register.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Driver Registration</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body style="background-image: url('{{ url_for('static', filename='background image.jpg') }}'); background-size: cover; background-repeat: no-repeat;">
+    <div class="registration-container">
+        <h1>Driver Registration</h1>
+        <form method="post" action="{{ url_for('register') }}" style="margin-top: 50px; background-color: rgba(255, 255, 255, 0.7); padding: 20px; border-radius: 10px;">
+            <label for="driver_name">Driver Name:</label>
+            <input type="text" name="driver_name" required>
+            <br>
+            <label for="driver_id">Driver ID:</label>
+            <input type="text" name="driver_id" required>
+            <br>
+            <label for="phone_number">Phone Number:</label>
+            <input type="text" name="phone_number" required>
+            <br>
+            <label for="password">Password:</label>
+            <input type="password" name="password" required>
+            <br>
+            <input type="submit" value="Register">
+        </form>
+        <p style="margin-top: 20px;">Already have an account? <a href="{{ url_for('login') }}" style="color: white; text-decoration: underline;">Login</a></p>
+    </div>
+</body>
+</html>
